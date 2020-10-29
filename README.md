@@ -21,7 +21,7 @@
 ### 2. Linux CLI, HTTP
  <details>
       <summary>
-       *Quiz1*
+      *Version Control with Git*
       </summary>
       <img alt="Quiz1" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.1.png">
     </details>

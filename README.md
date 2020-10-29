@@ -7,7 +7,7 @@
       ![level 1](https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-40.jpg)
       ![level 2](https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-51.jpg)
       
-      *****
+      ***
 ###  2. Linux CLI, HTTP
   ![Quiz1](https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.1.png)
   ![Quiz2](https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.2.png)

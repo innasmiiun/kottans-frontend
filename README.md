@@ -5,13 +5,13 @@
   I also learned how to add commits to the repository.
       <details>
       <summary>
-     Version Control with Git
+     *Version Control with Git*
       </summary>
       <img  src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-03-31.jpg">
     </details>
     <details>
       <summary>
-     learngitbranching.js.org
+     *learngitbranching.js.org*
       </summary>
      <img  src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-40.jpg">
       <img  src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-51.jpg">

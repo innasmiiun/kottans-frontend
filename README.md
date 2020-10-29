@@ -1,7 +1,7 @@
 # kottans-frontend
 <details>
     <summary>
-        1. Git intro
+        1. GIT INTRO
     </summary>
     I finished the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) and
     completed levels at [learngitbranching.js.org](learngitbranching.js.org).
@@ -28,7 +28,7 @@
 </details>
 <details>
     <summary>
-        2. Linux CLI, HTTP
+        2. LINUX CLI, HTTP
     </summary>
     I finished [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) and and learned many new and
     useful commands for working with Linux, which will help me in my future work. I also read and processed information

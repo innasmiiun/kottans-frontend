@@ -21,25 +21,25 @@
 ### 2. Linux CLI, HTTP
  <details>
       <summary>
-     *Quiz1*
+       *Quiz1*
       </summary>
       <img alt="Quiz1" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.1.png">
     </details>
      <details>
       <summary>
-     *Quiz2*
+       *Quiz2*
       </summary>
       <img alt="Quiz2" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.2.png">
     </details>
      <details>
       <summary>
-     *Quiz3*
+       *Quiz3*
       </summary>
       <img alt="Quiz3" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.3.png">
     </details>
      <details>
       <summary>
-     *Quiz4*
+       *Quiz4*
       </summary>
       <img alt="Quiz4" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.4.png">
     </details>

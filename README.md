@@ -74,7 +74,7 @@
 </details>
 <details>
     <summary>
-         <br>5. Responsive Layouts</br>
+        5. Responsive Layouts
     </summary>
 </details>
 <details>

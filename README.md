@@ -7,22 +7,42 @@
       <summary>
      *Version Control with Git*
       </summary>
-      <img  src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-03-31.jpg">
+      <img alt="Course Version Control with Git" src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-03-31.jpg">
     </details>
     <details>
       <summary>
      *learngitbranching.js.org*
       </summary>
-     <img  src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-40.jpg">
-      <img  src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-51.jpg">
+     <img alt="Level 1 on learngitbranching.js.org" src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-40.jpg">
+     <img alt="Level 2 on learngitbranching.js.org" src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-51.jpg">
     </details>
 
 
 ### 2. Linux CLI, HTTP
-  ![Quiz1](https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.1.png)
-  ![Quiz2](https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.2.png)
-  ![Quiz3](https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.3.png)
-  ![Quiz4](https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.4.png)
+ <details>
+      <summary>
+     *Quiz1*
+      </summary>
+      <img alt="Quiz1" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.1.png">
+    </details>
+     <details>
+      <summary>
+     *Quiz2*
+      </summary>
+      <img alt="Quiz2" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.2.png">
+    </details>
+     <details>
+      <summary>
+     *Quiz3*
+      </summary>
+      <img alt="Quiz3" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.3.png">
+    </details>
+     <details>
+      <summary>
+     *Quiz4*
+      </summary>
+      <img alt="Quiz4" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.4.png">
+    </details>
 
 ###  3. Git for Team Collaboration
 ###  4. Front-End Basics

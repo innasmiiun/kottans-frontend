@@ -19,28 +19,28 @@
 
 
 ### 2. Linux CLI, HTTP
-  I finished [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) and and learned many new and useful commands for working with Linux, which will help me in my future work. I also read and processed information about the HTTP protocol:[https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177], [https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155]. The information about the HTTP protocol was new and difficult for me, but interesting and useful.
+  I finished [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) and and learned many new and useful commands for working with Linux, which will help me in my future work. I also read and processed information about the HTTP protocol:[HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177), [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155). The information about the HTTP protocol was new and difficult for me, but interesting and useful.
  <details>
       <summary>
-      Quiz1
+      *Quiz1*
       </summary>
       <img alt="Quiz1" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.1.png">
     </details>
      <details>
       <summary>
-       Quiz2
+       *Quiz2*
       </summary>
       <img alt="Quiz2" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.2.png">
     </details>
      <details>
       <summary>
-       Quiz3
+       *Quiz3*
       </summary>
       <img alt="Quiz3" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.3.png">
     </details>
      <details>
       <summary>
-       Quiz4
+       *Quiz4*
       </summary>
       <img alt="Quiz4" src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_linux_cli/2.4.png">
     </details>

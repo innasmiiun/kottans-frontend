@@ -1,8 +1,11 @@
 # kottans-frontend
+<details>
+    <summary>
 ### 1. Git intro
   I finished the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) and completed levels at [learngitbranching.js.org](learngitbranching.js.org).
   This information helped me find out what is version control, how to initialize git, creaе a repositories, clone an existing repository, create new branches and change them. 
   I also learned how to add commits to the repository.
+        </summary>
       <details>
       <summary>
      Version Control with Git
@@ -16,7 +19,7 @@
      <img alt="Level 1 on learngitbranching.js.org" src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-40.jpg">
      <img alt="Level 2 on learngitbranching.js.org" src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-51.jpg">
     </details>
-
+    </details>
 
 ### 2. Linux CLI, HTTP
   I finished [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) and and learned many new and useful commands for working with Linux, which will help me in my future work. I also read and processed information about the HTTP protocol: [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177), [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155). The information about the HTTP protocol was new and difficult for me, but interesting and useful.

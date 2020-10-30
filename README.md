@@ -1,9 +1,9 @@
 # kottans-frontend
 <details>
-    <summary>
-      <h2>
+     <h2>
         1. GIT INTRO
         </h2>
+    <summary>
     </summary>
     I finished the course <a href = "https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a> and
     completed levels at <a href = "learngitbranching.js.org">learngitbranching.js.org</a>.

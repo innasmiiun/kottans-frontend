@@ -30,13 +30,12 @@
     <summary>
         2. LINUX CLI, HTTP
     </summary>
-    I finished [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) and and learned many new and
+    I finished <a href = "https://linuxsurvival.com/linux-tutorial-introduction/">Linux Survival</a> and and learned many new and
     useful commands for working with Linux, which will help me in my future work. I also read and processed information
-    about the HTTP protocol: [HTTP: The Protocol Every Web Developer Must Know - Part
-    1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177), [HTTP:
+    about the HTTP protocol:<a href = "https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177">HTTP: The Protocol Every Web Developer Must Know - Part
+    1</a>,<a href = "https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155">HTTP:
     The Protocol Every Web Developer Must Know - Part
-    2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155). The
-    information about the HTTP protocol was new and difficult for me, but interesting and useful.
+    2</a>. The information about the HTTP protocol was new and difficult for me, but interesting and useful.
     <details>
         <summary>
             Quiz1
@@ -64,8 +63,27 @@
 </details>
 <details>
     <summary>
-        3. Git for Team Collaboration
+        3. GIT FOR TEAM COLLABORATION
     </summary>
+        I finished the course <a href = "https://classroom.udacity.com/courses/ud456">GitHub & Collaboration</a> and
+    completed levels at <a href = "learngitbranching.js.org">learngitbranching.js.org</a>.
+    I studied in more detail the commands git push and git pull. The task 2 on the <a href = "learngitbranching.js.org">learngitbranching.js.org</a> was difficult for me at first, but studying the information and working on the mistakes helped me make it. 
+     <details>
+        <summary>
+            GitHub & Collaboration
+        </summary>
+        <img alt="Course GitHub & Collaboration"
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_collaboration/3.1.png">
+    </details>
+    <details>
+        <summary>
+            learngitbranching.js.org
+        </summary>
+        <img alt="Level 1 on learngitbranching.js.org"
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_collaboration/3.2.png">
+        <img alt="Level 2 on learngitbranching.js.org"
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_collaboration/3.3.png">
+    </details>
 </details>
 <details>
     <summary>

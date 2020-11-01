@@ -21,9 +21,9 @@
             learngitbranching.js.org
         </summary>
         <img alt="Level 1 on learngitbranching.js.org"
-            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.2.png">
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.2.jpg">
         <img alt="Level 2 on learngitbranching.js.org"
-            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.3.png">
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.3.jpg">
     </details>
 </details>
 <details>

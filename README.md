@@ -14,16 +14,16 @@
             Version Control with Git
         </summary>
         <img alt="Course Version Control with Git"
-            src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-03-31.jpg">
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.1.png">
     </details>
     <details>
         <summary>
             learngitbranching.js.org
         </summary>
         <img alt="Level 1 on learngitbranching.js.org"
-            src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-40.jpg">
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.2.png">
         <img alt="Level 2 on learngitbranching.js.org"
-            src="https://github.com/innasmiiun/screenshots/blob/master/photo_2020-10-27_21-05-51.jpg">
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_git_intro/1.3.png">
     </details>
 </details>
 <details>

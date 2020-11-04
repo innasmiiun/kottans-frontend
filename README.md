@@ -87,8 +87,30 @@
 </details>
 <details>
     <summary>
-        4. Front-End Basics
+        4. FRONT-END BASICS
     </summary>
+     <details>
+        <summary>
+            Intro to HTML & CSS
+        </summary>
+        <img alt="Course Intro to HTML & CSS"
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_html_css_intro/4.1.png">
+    </details>
+    <details>
+        <summary>
+            Learn HTML
+        </summary>
+        <img alt="Course Learn HTML"
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_html_css_intro/4.2.png">
+    </details>
+    <details>
+        <summary>
+            Learn CSS
+        </summary>
+        <img alt="Course Learn CSS"
+            src="https://github.com/innasmiiun/kottans-frontend/blob/master/task_html_css_intro/4.3.png">
+    </details>
+    
 </details>
 <details>
     <summary>
